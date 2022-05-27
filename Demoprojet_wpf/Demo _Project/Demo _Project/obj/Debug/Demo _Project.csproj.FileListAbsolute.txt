@@ -1,0 +1,16 @@
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\bin\Debug\Demo _Project.exe.config
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\bin\Debug\Demo _Project.exe
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\bin\Debug\Demo _Project.pdb
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\Demo _Project.csprojAssemblyReference.cache
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\MainWindow.g.cs
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\Login_Screen.g.cs
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\App.g.cs
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\Demo _Project_MarkupCompile.cache
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\Demo _Project_MarkupCompile.lref
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\MainWindow.baml
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\Login_Screen.baml
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\Demo _Project.g.resources
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\Demo__Project.Properties.Resources.resources
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\Demo _Project.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\Demo _Project.exe
+C:\Users\hasan\source\repos\Demo _Project\Demo _Project\obj\Debug\Demo _Project.pdb

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Demo__Project.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Demo__Project"
+        mc:Ignorable="d"
+        Title="Demo Login" Height="500" Width="450" FontSize="60" Background="Tomato" >
+    <Border Background="Black" CornerRadius="20" Margin="25">
+        <StackPanel>
+            <Label Content="Welcome" HorizontalAlignment="Center" FontSize="30" Margin="30" Foreground="AntiqueWhite" FontWeight="Bold"/>
+
+            <Separator Background="AntiqueWhite" BorderBrush="AntiqueWhite"/>
+            <Label Content="Username" Foreground="AntiqueWhite" FontSize="25"/>
+            <TextBox  x:Name="txtUsername" Background="DarkSlateGray" Foreground="AntiqueWhite" FontSize="25" Margin="12"/>
+            <Label Content="Password" Foreground="AntiqueWhite" FontSize="25"/>
+            <TextBox  x:Name="txtPassword" Background="DarkSlateGray" Foreground="AntiqueWhite" FontSize="25" Margin="12"/>
+
+            <Button x:Name="btnSubmit" Click="btnSubmit_Click" Content="Login" Margin="80 10" FontSize="35" FontWeight="Bold"/>
+        </StackPanel>
+    </Border>
+</Window>
